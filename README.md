@@ -1,3 +1,7 @@
+|*Nama|NIM|Kelas|Matkul*|
+|----|---|-----|------|
+|R.A FADILAH AMALIA|312310298|TI.23.A3|Basis Data|
+
 1. Menampilkan Nama Karyawan yang Berada di Departemen yang Dipimpin
 oleh Manajer dengan Nama 'Rika'
 ![Gambar WhatsApp 2024-07-02 pukul 14 04 55_57dc395f](https://github.com/RAFadilah22/Praktisi-UAS/assets/174418968/1c7ada5a-a048-4a59-beaf-bf6dceb56696)
